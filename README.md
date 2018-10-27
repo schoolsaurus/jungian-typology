@@ -1,53 +1,12 @@
 # jungian-typology
 A curated list of various jungian typology resources.
 
-
-# Awesome-Beginners
-An `awesome` type curated list of resources for complete beginners to programming, or
-people that are completely unaware of the world of programming.
-
-Think of it this way. If you had a little kid, or a wife (or a husband, or family, etc.) you wanted to teach how
-to program, a few unexpected questions come up:
-
-* Where do you start as a mentor?
-* What's the first programming language they should learn that would not scare them off?
-* How should they interface with the language? a visual editor? IDE?
-* Should they even start with a programming language?
-* How to keep everything fun?
-
-
-Pull requests happily accepted.
-
-
-### Languages
-*Programming languages that embrace people with little or no programming experience*
-
-* [Ruby](http://ruby-lang.org) - Ruby is a soft, happy language to start with.
-* [Javascript](https://www.javascript.com/) - Javascript is everywhere, which is why it might make sense to learn and then jump into the browser for interactions.
-* [Python (Turtle)](https://docs.python.org/2/library/turtle.html) - Turtle for Python. Thanks @rantav
-
-
-### Environments
-*Programming experience environments that are easy to start with*
-
-* [Processing](https://processing.org/) [processing.js](http://processingjs.org/)- THE non-programming programming environment.
-* [KidsRuby](http://kidsruby.com/) - Ruby based, an IDE and various components such as Robotics etc. for full immersion.
-* [Bocko](https://github.com/mfikes/bocko) - Simple Clojure imperative graphics
-* [Robots](https://github.com/npryce/robots) - A simple game to teach the basics of programming
-* [Code Combat](http://codecombat.com/) - An almost real quest (game) driven by the player learning to code
-* [Scratch](https://scratch.mit.edu/) - A visual programming environment for kids by MIT
-* [ScratchJR](http://www.scratchjr.org/) - Tablet application version of Scratch for little children (ages 5-7). No reading or writing skills are required.
-* [Hopscotch](http://www.gethopscotch.com/) - Another visual programming environment with an app and more
-* [Phaser](http://phaser.io/) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering
-* [CodeMonkey](https://www.playcodemonkey.com/) - Learning CoffeeScript for kids through a nice interactive game
-* [Turtle Academy](https://www.turtleacademy.com/) - Learn Programming using the Logo language. Site is multilingual, and the actual logo commands are also translated to the local languages, making it ideal for kids who knows only their mother tongue
-
-
-
-
-### Training
-*Beginner or medium level training programs*
-
-* [code.org](https://code.org/) - an initiative that's packed with material for all ages
-* [codeclub](https://codeclubprojects.org/) - a voluntary initiative, which aims to provide opportunities for children aged 9 to 13 to developing coding skills through free after-school clubs. Great projects (including scratch, html & css, python, raspberry pi and more) you can try with your kid. Some projects have translations to more languages.
-
+### YouTube Channels
+*For a comparative perspective*
+* [Michael Pierce](https://www.youtube.com/channel/UCmDcT_Pujk8vOcxk_IcnxtQ/videos) - A beginner-friendly guide from Type Description, Introductory MBTI and some Socionics, mostly presented from a Jungian view.
+* [Talking with Famous People](https://www.youtube.com/channel/UC6LNCcMzybvNuABUKmOF9zg/videos) - A freeflow exploration of various notions in MBTI, Jung, and Socionics, has a philosophical take on cognitive functions and a comparative approach to function stacks.
+* [Ben Vaserlan](https://www.youtube.com/user/Vaserlan/videos) - In-depth explanation of socionics concepts based on Victor Gulenko's Model G, works on ongoing synthesis between Gulenko's socionics and Dario Nardi's EEG research.
+* [Cybernetic Energy & Information](https://www.youtube.com/user/userjames2009/playlists) - Advanced examination of cross-typology ideas primarily through the lense of cybernetics, further develops the model of type from socionics Model B into a dynamic model, has an extensive collection of videos representing cognitive functions and certain type attributes in action.
+* [NT Support](https://www.youtube.com/channel/UCqWePu2U_zUyDzQbKvEWDKw/videos) - An interactive presentation of various typology terms and concepts in a discussion setting and primarily from first-person experience, also hosts unique activites which attempt to showcase certain cognitive functions at play.
+* [DaveSuperPowers](https://www.youtube.com/user/DaveSuperPowers/videos) - An empirically-minded evaluation towards Jungian Typology and Typing Methodology, presents type and function dynamics in interesting schematics of interrelations.
+* [Erik Thor](https://www.youtube.com/user/Erikjuntti/videos) - A personalized approach to type based on several typology systems (MBTI, Keirsey Temperament, Socionics, Enneagram), attempt to construct a complete picture of an individual based on combination of various types and type dichotomies across life aspects.
